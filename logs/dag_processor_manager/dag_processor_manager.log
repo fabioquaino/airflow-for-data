@@ -1,0 +1,240 @@
+[2024-05-17T17:01:43.078+0000] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-05-17T17:01:43.079+0000] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-05-17T17:01:43.079+0000] {manager.py:489} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-05-17T17:01:43.079+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2024-05-17T17:01:43.080+0000] {manager.py:758} INFO - There are 1 files in /opt/airflow/dags
+[2024-05-17T17:01:43.145+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/train_dag.py     38  0.03s             0           0
+================================================================================
+[2024-05-17T17:02:13.382+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_dag.py                           1           0  0.08s           2024-05-17T17:01:57
+================================================================================
+[2024-05-17T17:02:43.568+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_dag.py                           1           0  0.24s           2024-05-17T17:02:27
+================================================================================
+[2024-05-17T17:03:13.933+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_dag.py                           1           0  0.10s           2024-05-17T17:02:57
+================================================================================
+[2024-05-17T17:03:44.170+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_dag.py                           1           0  0.10s           2024-05-17T17:03:28
+================================================================================
+[2024-05-17T17:04:14.351+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_dag.py                           1           0  0.09s           2024-05-17T17:03:58
+================================================================================
+[2024-05-17T17:04:44.564+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_dag.py                           1           0  0.10s           2024-05-17T17:04:28
+================================================================================
+[2024-05-17T17:05:14.753+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_dag.py                           1           0  0.10s           2024-05-17T17:04:58
+================================================================================
+[2024-05-17T17:05:44.967+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_dag.py                           1           0  0.09s           2024-05-17T17:05:28
+================================================================================
+[2024-05-17T17:06:15.145+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_dag.py                           1           0  0.10s           2024-05-17T17:05:59
+================================================================================
+[2024-05-17T17:06:43.363+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2024-05-17T17:06:43.365+0000] {manager.py:758} INFO - There are 1 files in /opt/airflow/dags
+[2024-05-17T17:06:45.393+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_dag.py                           1           0  0.10s           2024-05-17T17:06:29
+================================================================================
+[2024-05-17T17:07:15.570+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_dag.py                           1           0  0.10s           2024-05-17T17:06:59
+================================================================================
+[2024-05-17T17:07:45.796+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/train_dag.py                           1           0  0.10s           2024-05-17T17:07:29
+================================================================================
+[2024-05-17T17:08:09.945+0000] {manager.py:1137} WARNING - Skipping processing of missing file: /opt/airflow/dags/train_dag.py
+[2024-05-17T17:11:44.032+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2024-05-17T17:11:44.034+0000] {manager.py:758} INFO - There are 3 files in /opt/airflow/dags
+[2024-05-17T17:11:47.314+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_dummy.py                                1           0  0.18s           2024-05-17T17:11:44
+/opt/airflow/dags/example_talend.py                               1           0  0.17s           2024-05-17T17:11:44
+/opt/airflow/dags/example_mysql_conn.py                           1           0  0.16s           2024-05-17T17:11:44
+================================================================================
+[2024-05-17T17:12:17.569+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_dummy.py                                1           0  0.10s           2024-05-17T17:12:14
+/opt/airflow/dags/example_talend.py                               1           0  0.08s           2024-05-17T17:12:14
+/opt/airflow/dags/example_mysql_conn.py                           1           0  0.09s           2024-05-17T17:12:14
+================================================================================
+[2024-05-17T17:12:47.838+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_dummy.py                                1           0  0.11s           2024-05-17T17:12:44
+/opt/airflow/dags/example_talend.py                               1           0  0.09s           2024-05-17T17:12:44
+/opt/airflow/dags/example_mysql_conn.py                           1           0  0.10s           2024-05-17T17:12:44
+================================================================================
+[2024-05-17T17:13:18.099+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_dummy.py                                1           0  0.09s           2024-05-17T17:13:15
+/opt/airflow/dags/example_talend.py                               1           0  0.08s           2024-05-17T17:13:15
+/opt/airflow/dags/example_mysql_conn.py                           1           0  0.09s           2024-05-17T17:13:15
+================================================================================
+[2024-05-17T17:13:48.369+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_dummy.py                                1           0  0.10s           2024-05-17T17:13:45
+/opt/airflow/dags/example_talend.py                               1           0  0.08s           2024-05-17T17:13:45
+/opt/airflow/dags/example_mysql_conn.py                           1           0  0.10s           2024-05-17T17:13:45
+================================================================================
+[2024-05-17T17:14:18.644+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_dummy.py                                1           0  0.10s           2024-05-17T17:14:15
+/opt/airflow/dags/example_talend.py                               1           0  0.09s           2024-05-17T17:14:15
+/opt/airflow/dags/example_mysql_conn.py                           1           0  0.09s           2024-05-17T17:14:15
+================================================================================
+[2024-05-17T17:14:48.920+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_dummy.py                                1           0  0.11s           2024-05-17T17:14:45
+/opt/airflow/dags/example_talend.py                               1           0  0.09s           2024-05-17T17:14:45
+/opt/airflow/dags/example_mysql_conn.py                           1           0  0.09s           2024-05-17T17:14:45
+================================================================================
+[2024-05-17T17:15:19.192+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_dummy.py                                1           0  0.10s           2024-05-17T17:15:16
+/opt/airflow/dags/example_talend.py                               1           0  0.09s           2024-05-17T17:15:16
+/opt/airflow/dags/example_mysql_conn.py                           1           0  0.10s           2024-05-17T17:15:16
+================================================================================
+[2024-05-17T17:15:49.460+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_dummy.py                                1           0  0.10s           2024-05-17T17:15:46
+/opt/airflow/dags/example_talend.py                               1           0  0.09s           2024-05-17T17:15:46
+/opt/airflow/dags/example_mysql_conn.py                           1           0  0.10s           2024-05-17T17:15:46
+================================================================================
+[2024-05-17T17:16:11.135+0000] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2024-05-17T17:18:31.206+0000] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-05-17T17:18:31.207+0000] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-05-17T17:18:31.207+0000] {manager.py:489} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-05-17T17:18:31.207+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2024-05-17T17:18:31.208+0000] {manager.py:758} INFO - There are 3 files in /opt/airflow/dags
+[2024-05-17T17:18:31.367+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/example_dummy.py          38  0.13s             0           0
+/opt/airflow/dags/example_talend.py                               0           0
+/opt/airflow/dags/example_mysql_conn.py     39  0.05s             0           0
+================================================================================
+[2024-05-17T17:19:01.627+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_dummy.py          41  0.02s             1           0  0.14s           2024-05-17T17:18:31
+/opt/airflow/dags/example_talend.py                               1           0  0.10s           2024-05-17T17:18:31
+/opt/airflow/dags/example_mysql_conn.py     42  0.00s             1           0  0.14s           2024-05-17T17:18:31
+================================================================================
+[2024-05-17T17:19:31.905+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_dummy.py          44  0.01s             1           0  0.12s           2024-05-17T17:19:01
+/opt/airflow/dags/example_talend.py                               1           0  0.09s           2024-05-17T17:19:01
+/opt/airflow/dags/example_mysql_conn.py     45  0.01s             1           0  0.10s           2024-05-17T17:19:01
+================================================================================
